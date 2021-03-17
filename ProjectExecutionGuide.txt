@@ -1,0 +1,11 @@
+Execution of Project
+
+The name of source code is FinalProject.py,we can execute it on command line on windows by following command :
+	
+	./< program_name > <doc_file > <similarity >
+  
+  Example
+	
+	FinalProject.py tweets.txt 0.5
+
+The source code and text files should be in same folder to run it correctly.
